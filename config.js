@@ -1,12 +1,5 @@
 // s c r i p t b y  aldi lesmana🔭
 // ditulis ulang oleh Exalt 
-// credits, jangan dihapus atau diubah!
-
-// - - thanks to - -
-// • allah swt
-// • Ex-Alt 
-// • dll
-
 //[!] jangan lupa ganti ownernya
 
 import { watchFile, unwatchFile } from 'fs'
@@ -55,11 +48,11 @@ global.wame = 'https://wa.me/6289637252247'
 
 /*============== PAYMENT ==============*/
 global.pdana = '082118969778' //dana
-global.povo = '082118969778' //ovo
-global.pgopay = '082118969778' //gopay
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
 global.ppulsa = '082118969778' //telkomsel
-global.ppulsa2 = '082118969778' // kalau ada kartu lain isi aja
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
@@ -68,7 +61,7 @@ global.nomorown = '6289637252247'
 global.nomorown1 = '6289637252247' 
 global.namebot = 'eX-Bot'
 global.nameown = 'ExAlt'
-global.nameown1 = 'D A N I'
+global.nameown1 = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/miskawatydihuma' // ig lo
@@ -76,9 +69,6 @@ global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/miskawatydih
 /*============== Github Thanks To ==============*/
 global.namagithub = 'eXBotz' // nama github lu
 global.linkgithub = 'https://github.com/Ex-altid' // tarok link github lu
-
-// klau kgk ada github kasih tanda '-' aja biar kgk error
-
 /*============== STAFF ==============*/
 global.owner = [
   ['6289637252247', 'Exalt', true],
@@ -99,7 +89,7 @@ global.wm2 = '                   ༺Ex-Alt༻'
 global.wm3 = '              ⫷◎⑅ Ex-Alt ⑅◍⫸'
 global.botdate = `⌨ Waktu: ${week} ${date}\n🕜 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `🕑T I M E : ${wktuwib}`
-global.titlebot = `❁ WhatsApp Bot | By Ex-Alt A.K.A  ☛ D a N e`
+global.titlebot = `❁ WhatsApp Bot | By ☛ Ex-Alt`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                  ༺Ex-Alt༻  '
 global.week = `${week} ${date}`
